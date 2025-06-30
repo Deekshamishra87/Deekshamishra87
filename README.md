@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deeksha Mishra</h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/125179370?v=4" width="180" style="border-radius:50%" alt="Deeksha's profile picture" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Flutter+Developer;Android+Lover+📱;Always+Learning+🌱" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Passionate+Flutter+Developer;Android+Lover+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%9F" alt="Typing SVG" />
