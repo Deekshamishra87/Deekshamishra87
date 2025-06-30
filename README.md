@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deeksha Mishra</h1>
 
 
-<p align="center"><b>Flutter Developer | Android Lover 📱 | Always Learning 🌱</b></p>
+<p align="center"><b>Flutter Developer | Mobile App Enthusiast 📱 | Always Learning 🌱</b></p>
 
 
 
