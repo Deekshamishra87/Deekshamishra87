@@ -24,10 +24,11 @@
 
 ### 🎶 Ragrang – Modern Music Player App  
 > Reimagined in Flutter from a Java-based app for better performance & cross-platform support.  
-- Offline audio playback  
-- Like/Unlike songs (stored using Hive)  
-- Clean album-art UI, smooth transitions  
-- Firebase Integration (coming soon)  
+- iTunes API Integration: Search any song and instantly preview it. 
+- Downloaded Songs Support: Automatically detects and plays songs stored on the user’s device. 
+-  Like/Unlike Feature: Tracks liked songs using Hive for persistent local storage. 
+- Modern UI: Clean album-art interface with smooth transitions and responsive design.
+- Firebase Integration (Coming Soon): User authentication, cloud sync, and personalized favorites. 
 
 🔗 [View Project Repo](https://github.com/Deekshamishra87/Ragrang)
 
